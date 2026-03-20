@@ -2,6 +2,7 @@
 Zenvest is a web-based micro-insurance platform providing **instant, trigger-based payouts** for India’s gig workforce.
 
 It replaces manual claims with **automated environmental triggers** (weather, AQI, downtime) so delivery partners aren’t penalized for factors beyond their control.
+
 <img width="1890" height="987" alt="image" src="https://github.com/user-attachments/assets/977e2199-9761-401e-bf09-475c495deb3e" />
 
 
@@ -331,6 +332,12 @@ We ensure fraud checks don’t hurt genuine users.
 - Sent for manual review  
 - Message shown: *“Verification in progress”*  
 
- No instant rejection, avoids unfair penalties  
+ No instant rejection, avoids unfair penalties 
  
 ---
+## System Architecture Flow
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/06e78107-fa8e-4790-bc43-b5fc2fe394af" />
+
+---
+
